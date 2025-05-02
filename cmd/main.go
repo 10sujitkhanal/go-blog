@@ -1,7 +1,8 @@
 package main
 
 import (
-	"github.com/10sujitkhanal/go-blog/internal/blog"
+	"go-blog/internal/blog"
+
 	"github.com/gin-gonic/gin"
 )
 

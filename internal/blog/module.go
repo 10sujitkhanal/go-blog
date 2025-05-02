@@ -1,9 +1,10 @@
 package blog
 
 import (
-	"github.com/10sujitkhanal/go-blog/internal/blog/controller"
-	"github.com/10sujitkhanal/go-blog/internal/blog/repository"
-	"github.com/10sujitkhanal/go-blog/internal/blog/service"
+	"go-blog/internal/blog/controller"
+	"go-blog/internal/blog/repository"
+	"go-blog/internal/blog/service"
+
 	"github.com/gin-gonic/gin"
 )
 

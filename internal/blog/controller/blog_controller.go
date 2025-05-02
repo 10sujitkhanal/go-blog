@@ -3,7 +3,8 @@ package controller
 import (
 	"net/http"
 
-	"github.com/10sujitkhanal/go-blog/internal/blog/service"
+	"go-blog/internal/blog/service"
+
 	"github.com/gin-gonic/gin"
 )
 

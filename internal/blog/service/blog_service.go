@@ -1,9 +1,9 @@
 package service
 
 import (
-	models "github.com/10sujitkhanal/go-blog/internal/blog/models"
+	models "go-blog/internal/blog/models"
 
-	"github.com/10sujitkhanal/go-blog/internal/blog/repository"
+	"go-blog/internal/blog/repository"
 )
 
 // BlogService handles the business logic for blogs.

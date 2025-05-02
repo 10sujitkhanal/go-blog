@@ -1,6 +1,6 @@
 package repository
 
-import models "github.com/10sujitkhanal/go-blog/internal/blog/models"
+import models "go-blog/internal/blog/models"
 
 // BlogRepository handles data fetching logic.
 type BlogRepository struct{}

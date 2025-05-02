@@ -1,4 +1,4 @@
-module github.com/10sujitkhanal/go-blog
+module go-blog
 
 go 1.22.2
 
